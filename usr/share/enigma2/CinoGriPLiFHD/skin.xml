@@ -2083,10 +2083,10 @@ self.instance.move(ePoint(orgpos.x() + (orgwidth - newwidth)//2, orgpos.y() + (o
   <screen name="VirtualKeyBoard" position="fill" zPosition="99" flags="wfNoBorder">
     <panel name="PigTemplate" />
     <panel name="Weather" />
-    <ePixmap pixmap="CinoGriPLiFHD/skin_default/vkey_text.png" position="927,235" size="816,78" zPosition="-4" alphatest="on" />
-    <widget name="header" position="930,120" size="810,39" transparent="1" noWrap="1" font="Regular;33" valign="top" />
-    <widget name="text" position="930,255" size="804,51" transparent="1" noWrap="1" font="Regular;38" valign="center" halign="right" />
-    <widget name="list" position="930,375" size="816,343" selectionDisabled="1" transparent="1" />
+    <ePixmap pixmap="CinoGriPLiFHD/skin_default/vkey_text.png" position="941,245" size="822,78" zPosition="-4" alphatest="on" />
+    <widget name="header" position="870,135" size="966,39" transparent="1" noWrap="1" font="Regular;33" valign="top" />
+    <widget name="text" position="948,260" size="800,51" transparent="1" noWrap="1" font="Regular;38" valign="center" halign="right" />
+    <widget name="list" position="870,375" size="966,363" selectionDisabled="1" transparent="1" />
   </screen>
   <!-- AC3LipSyncSetup -->
   <screen name="AC3LipSyncSetup" position="fill" flags="wfNoBorder">
