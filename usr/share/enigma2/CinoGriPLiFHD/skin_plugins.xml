@@ -1377,7 +1377,7 @@
     <widget render="Label" source="caption" position="25,80" zPosition="1" size="780,58" font="Regular;35" transparent="1" />
     <widget render="Label" source="observationtime" position="810,41" zPosition="1" size="560,40" font="Regular;30" transparent="1" halign="right" />
     <widget render="Label" source="observationpoint" position="810,93" zPosition="1" size="560,110" font="Regular;30" transparent="1" halign="right" />
-    <widget name="currenticon" position="622,230" zPosition="1" size="150,150" alphatest="blend" />
+    <widget name="currenticon" position="622,225" zPosition="1" size="150,150" alphatest="blend" />
     <widget render="Label" source="currentTemp" position="10,276" zPosition="1" size="570,40" font="Regular; 32" transparent="1" halign="right" />
     <widget render="Label" source="feelsliketemp" position="10,320" zPosition="1" size="570,40" font="Regular;32" transparent="1" halign="right" />
     <widget render="Label" source="condition" position="820,231" zPosition="1" size="570,40" font="Regular;32" transparent="1" />
